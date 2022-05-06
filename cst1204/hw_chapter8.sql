@@ -160,8 +160,6 @@ DISP_EX8_08('AH74',26.95);
 END;
 /
 
-
-
 /* Exercise 9: Write the code for the following triggers in PL/SQL or T-SQL following the style shown in the text. */
 /* a) When adding a customer, add the customer's balance multiplied by the sale rep's commission rate to the commission for the corresponding sales rep. */
 CREATE OR REPLACE TRIGGER EX_09A
