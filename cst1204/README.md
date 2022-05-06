@@ -31,7 +31,7 @@ Upon successful completion of the course, the student should be able to:
 
 ----------
 
-### End of chapter assignments are completed using:<br>
+### End of chapter assignments were completed using:<br>
 
 - **A Guide to SQL**, 9th Edition <br>
 Philip J. Pratt and Mary Z. Last<br>
