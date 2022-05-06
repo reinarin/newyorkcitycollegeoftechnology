@@ -28,3 +28,11 @@ Upon successful completion of the course, the student should be able to:
   a. Select data from one table for various retrieval conditions.
   b. Select data from several tables with the help of joins or subqueries, and for various retrieval conditions.
   c. Perform aggregate calculations on data from one or several tables.
+
+----------
+
+End of chapter assignments are completed using:<br>
+
+- **A Guide to SQL**, 9th Edition <br>
+Philip J. Pratt and Mary Z. Last<br>
+ISBN-10: 111152727X  |  ISBN-13: 9781111527273<br>
